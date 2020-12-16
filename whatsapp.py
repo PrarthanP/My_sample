@@ -33,7 +33,7 @@ def working(name):
     print(name)
     dic={'vishnu':'vishnu',
         'harsha':'Harsha vardhan Dsu',
-        'srihari':'Srihari'}
+        'prarthan':'Prarthan'}
     if name in dic:
         contact_name=dic[name]
         while(1):
