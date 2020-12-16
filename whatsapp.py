@@ -87,3 +87,5 @@ driver.get("https://web.whatsapp.com/")
 driver.maximize_window()
 speak("scan QR code")
 whatsapp_message()
+
+
